@@ -3,7 +3,7 @@
 import telebot
 import subprocess
 import datetime
-import os@RZRDEVIL
+import os
 
 from keep_alive import keep_alive
 keep_alive()
